@@ -1,0 +1,12 @@
+HTML
+
+1.Singkatan dari Hyper Text Markup Language
+2.Bahasa markup standar untuk membuat halaman Web
+3.Menggambarkan struktur halaman web
+4.Terdiri dari serangkaian elemen
+  A.<DOCTYPE html> = Mendefinisikan bahwa dokumen ini adalah dokumen HTML5
+  B.<html> = Elemen root dari halaman HTML
+  C.<title> = Menentukan judul untuk halamn HTML (yang ditampilkan di bilah judul browser atau di tab halaman)
+  D.<body> = Mendenifisikan badan dokumen, dan merupakan wadah untuk semua konten yang terlihat seperti judul, paragraf, gambar, hyperlink, tabel, daftar, dll.
+  E.<h1> = Mendefinisikan judul besar
+  F.<p> = Mendefinisikan sebuah paragraf
